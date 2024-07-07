@@ -1,4 +1,4 @@
-import luxuryShipImage from "@/public/images/luxury-ship.jpg";
+import luxuryShipImage from "../../public/images/luxury-ship.jpg";
 import { Button } from "@/components/ui/button";
 import {
   DropdownMenu,
