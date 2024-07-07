@@ -12,7 +12,7 @@ import { cn } from "@/lib/utils";
 import { CircleUser, Menu, Package2 } from "lucide-react";
 import { NavLink, Outlet } from "react-router-dom";
 import { navItems } from "../App";
-import luxuryShipImage from "../../public/images/luxury-ship.jpg";
+import luxuryShipImage from "@/public/images/luxury-ship.jpg";
 
 const Layout = () => {
   return (
